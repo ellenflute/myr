@@ -1,0 +1,2 @@
+# myr
+r install
